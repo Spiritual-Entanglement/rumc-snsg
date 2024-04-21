@@ -3,7 +3,7 @@
 ## Source Material
 
 - Main Book:
-  - Revelation & the End of ALl Things by Craig R. Koester
+  - Revelation & the End of All Things by Craig R. Koester
 - Supplemental Materials:
   - Revelation for Everyone by N.T. Wright.
   - Revelation: The NIV Application Commentary by Craig S. Keener
