@@ -16,11 +16,12 @@ It is apocalyptic, prophetic, and epistolary.
 
 The Jewish and Christian extra-biblical, apocalyptic books normally date between 200 BC and 200 AD, and the genre gets its name from the Greek 'apocalypsis' which means 'revelation.'
 
-The meaning is to reveal something that exists, but was hidden.
+The meaning is to reveal something that exists, but was previously hidden.
 
 Revelation shares many similarities with these extra biblical apocalyptic books.
 Apocalyptic:
-- symbolism and visions
+- symbolism to represent commonly understood things and concepts
+- visions of various kinds like: unrealistic realities or futures.
 - angelic beings as mediators of the revelation
 - bizarre imagery.
 - the expectation of divine judgement
@@ -71,9 +72,9 @@ Between Nero and Domitian are
 - Vespasian 69 - 79  (destruction of Jerusalem.)
 - Titus 79 - 81
 
-Revelation (The NIV Applicaton Commentary) pg 34 of 523.
 
 ### Traditional Materials
+From: Revelation (The NIV Applicaton Commentary) pg 34 of 523.
 
 John does not quote the OT, but he does make many allusions to many OT works.
 - 278 versus out of the total of 404 contain allusions to OT works.
@@ -87,11 +88,16 @@ There are four MAJOR interpretations that we need to think about.
 Why?
 These interpretations have shaped a lot of different teachings, and some are very popular in current media.  These things color and shape how each of us individually think about what we are reading in the text whether we are concious of that or not.
 
+We won't get heavy into this here as our main book will talk about these more.
+
 1. Preterist - think the events were largely fulfilled in the 1st century AD.
 2. Historicist - Believe the events unfold gradually through history.
    - This was the view of many of the Reformers who equated the Papacy with the Antichrist.
-3. Futurist - claims the events of Revelation outline a script that will play out in the last days.  The events in ch 4-22 have not yet been fulfilled.
-4. Idealist - Does not pinpoint the images and symbolism to events in history.
+3. Futurist
+   - they claim the events of Revelation outline a script that will play out in the last days.
+   - to them none of the events in ch 4-22 have not yet been fulfilled.
+4. Idealist
+   - Does not pinpoint the images and symbolism to events in history.
    - Revelation is concerned with timeless truths about the battle between good and evil, and this continues throughout the ages.
 
 
