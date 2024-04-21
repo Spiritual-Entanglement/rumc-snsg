@@ -26,18 +26,23 @@
 
 - <details><summary>Saul</summary>
 
-   - an ENEMY of the young church is chosen as the Apostle to the Gentiles.
-   - ZEALOUS Pharisee from a family of Pharisees.
-   - Educated & intellectual.
-   - Spiritually minded.
-     - He knows his scripture.
-   - <details><summary>From Tarsus.</summary>
+  - an ENEMY of the young church is chosen as the Apostle to the Gentiles.
 
-     - University town.
-     - Trading and marketing town.
-     - Roman and Greek philosophers.
-	 - Nearly a decade in Tarsus thinking out Christian Theology before his major missionary journeys.
-     </details>
+  - ZEALOUS Pharisee from a family of Pharisees.
+
+  - Educated & intellectual.
+
+  - Spiritually minded.
+
+    - He knows his scripture.
+
+  - <details><summary>From Tarsus.</summary>
+
+    - University town.
+    - Trading and marketing town.
+    - Roman and Greek philosophers.
+    - Nearly a decade in Tarsus thinking out Christian Theology before his major missionary journeys.
+    </details>
 
   </details>
 

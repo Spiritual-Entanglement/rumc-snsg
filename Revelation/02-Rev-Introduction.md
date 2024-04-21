@@ -61,7 +61,7 @@
 
    </details>
 
-2. <details><summary>**Authorship**</summary>
+2. <details><summary>Authorship</summary>
 
    - John the Apostle
    - one of the Apostle's disciples
@@ -70,13 +70,13 @@
 	 - In Acts 19 Paul met Christians in Ephesus who were diciples of John the Baptist and knew nothing of the baptism of the Holy Spirit.
    </details>
 
-3. <details><summary>**Date**</summary>
+3. <details><summary>Date</summary>
 
    - Nero's reign from AD 54 to 68.
    - Domitian's rule from AD 81 to 96.
    </details>
 
-4. <details><summary>**Traditional Materials**</summary>
+4. <details><summary>Traditional Materials</summary>
 
    - 278 versus out of 404 contain allusions to Old Testament.
    - Frequently refers to Isaiah, Jeremiah, Ezekiel and Daniel.
@@ -84,7 +84,7 @@
    - John recasts OT images into Christological reinterpretations.
    </details>
 
-5. <details><summary>**Leading Interpretations**</summary>
+5. <details><summary>Leading Interpretations</summary>
 
    - Preterist - think the events were largely fulfilled in the 1st century AD.
    - Historicist - Believe the events unfold gradually through history.
@@ -98,7 +98,7 @@
      - Revelation is concerned with timeless truths about the battle between good and evil, and this continues throughout the ages.
    </details>
 
-6. <details><summary>**The Message of Revelation**</summary>
+6. <details><summary>The Message of Revelation</summary>
 
    What is Revelation's overall message?
 
