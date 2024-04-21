@@ -1,3 +1,9 @@
+# Riviera UMC
+## [Sunday Night Small Group](/README.md)
+## [Study of the Book of Revelation](/Revelation/README.md)
+### [Schedule](/Revelation/00-Rev-Schedule.md)
+
+
 # Recap of Acts
 
 ## Summary of the Early Church
