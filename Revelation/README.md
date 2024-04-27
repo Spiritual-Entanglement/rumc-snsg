@@ -1,5 +1,5 @@
 # Reviera United Methodist Church
-## [Sunday Night Small Group](/README.md)
+## [Sunday Night Small Group](https://Spiritual-Entanglement.github.io/rumc-snsg/)
 
 ## Study of the Book of Revelation
 [https://Spiritual-Entanglement.github.io/rumc-snsg/Revelation](https://Spiritual-Entanglement.github.io/rumc-snsg/00-schedule.md)
