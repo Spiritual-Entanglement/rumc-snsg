@@ -7,29 +7,25 @@
 
 ## Source Material
 
-- Main Book:
-  - Revelation & the End of All Things by Craig R. Koester
-- Supplemental Materials:
+- **Main Book:**
+  - Revelation & the End of ALl Things by Craig R. Koester
+- **Supplemental Materials:**
   - Revelation for Everyone by N.T. Wright.
   - Revelation: The NIV Application Commentary by Craig S. Keener
   - Four Views on the Book of Revelation (Counterpoints: Bible and Theolory) - Stanley Gundry and Marvin Pate
 
 ## Considerations Before Getting into the Scriptures
 
-1. <details><summary>Genre</summary>
-
+1. **Genre**
    - Three genres in one book: Apocalyptic, Prophetic, and Epistolary.
 
-   - <details><summary>Apocalyptic</summary>
-
+   - Apocalyptic
      - Jewish and Christian apocalyptic books not in the Bible.
      - From Greek apocalypsis' meaning 'revelation'
        - did not mean a large-scale disater or end of the world.
      - Revelation is the revealing of something that existed but was previously hidden.
      - Apocalyptic books are not phrophetic in nature.
-
-     - <details><summary>Characteristics of Jewish/Christian apocalyptic books: </summary>
-
+     - Characteristics of Jewish/Christian apocalyptic books: 
        - symbolism and visions
        - angelic beings media the revelation
        - bizarre imagery
@@ -37,11 +33,8 @@
        - Kingdom of God
        - New heavens and earth
        - difference between this age and the age to come.
-       </details>
 
-     </details>
-   - <details><summary>Prophetic</summary>
- 
+   - Prophetic
      - Revelation differs from other apocalyptic books by being prophetic.
 	 - John declares the book is prophecy several times.
 	   - Rev 1:3, 22:7, 22:10, 22:18-19
@@ -52,45 +45,35 @@
 	   - Many apocalyptic books recast past events as future predictions.
 	 - John speaks like OT prophets.
 	   - John believes God's Kingdom has already broken into the history of his day.
-     </details>
 
-   - <details><summary>Epistolary framework</summary>
-
+   - Epistolary framework
      - packaged like other epistles
      - names the sender
      - names the addressees
      - greetings
      - a doxology
      - a postscript (22:10-21)
-     </details>
 
-   </details>
 
-2. <details><summary>Authorship</summary>
-
+2. **Authorship**
    - John the Apostle
    - one of the Apostle's disciples
    - John the Baptist
-     - not much support for this one.
+     - not much support for this one, but it does pose interesting possibilities.
 	 - In Acts 19 Paul met Christians in Ephesus who were diciples of John the Baptist and knew nothing of the baptism of the Holy Spirit.
-   </details>
 
-3. <details><summary>Date</summary>
+3. **Date**
+   - The two most probable possibilities
+     - Nero's reign from AD 54 to 68.
+     - Domitian's rule from AD 81 to 96.
 
-   - Nero's reign from AD 54 to 68.
-   - Domitian's rule from AD 81 to 96.
-   </details>
-
-4. <details><summary>Traditional Materials</summary>
-
+4. **Traditional Materials**
    - 278 versus out of 404 contain allusions to Old Testament.
    - Frequently refers to Isaiah, Jeremiah, Ezekiel and Daniel.
-   - Also Psalms, Exedus, and Deuteronomy.
+   - Not as frequently: Psalms, Exedus, and Deuteronomy.
    - John recasts OT images into Christological reinterpretations.
-   </details>
 
-5. <details><summary>Leading Interpretations</summary>
-
+5. **Leading Interpretations**
    - Preterist - think the events were largely fulfilled in the 1st century AD.
    - Historicist - Believe the events unfold gradually through history.
      - This was the view of many of the Reformers
@@ -101,10 +84,8 @@
    - Idealist
      - no images and symbolism equate to events in history.
      - Revelation is concerned with timeless truths about the battle between good and evil, and this continues throughout the ages.
-   </details>
 
-6. <details><summary>The Message of Revelation</summary>
-
+6. **The Message of Revelation**
    What is Revelation's overall message?
 
    - God is awesomely majestic.
@@ -134,7 +115,6 @@
 	 - but remain vigilant
 	 - resist compromise.
 
-   </details>
 
 
 

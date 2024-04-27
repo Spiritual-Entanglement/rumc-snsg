@@ -2,13 +2,14 @@
 ## [Sunday Night Small Group](/README.md)
 
 ## Study of the Book of Revelation
+[https://Spiritual-Entanglement.github.io/rumc-snsg/Revelation](https://Spiritual-Entanglement.github.io/rumc-snsg/00-schedule.md)
 
-### [Schedule](/Revelation/00-Rev-Schedule.md)
+### [SCHEDULE](/00-Schedule.md)
 
 ### Source materials used in this study.
 
 - Main Book:
-  - Revelation & the End of ALl Things by Craig R. Koester
+  - Revelation & the End of All Things by Craig R. Koester
 - Supplemental Materials:
   - Revelation for Everyone by N.T. Wright.
   - Revelation: The NIV Application Commentary by Craig S. Keener
