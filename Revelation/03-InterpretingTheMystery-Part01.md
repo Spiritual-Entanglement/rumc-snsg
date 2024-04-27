@@ -1,20 +1,20 @@
 # Riviera UMC
 ## [Sunday Night Small Group](/README.md)
 ## [Study of the Book of Revelation](/Revelation/README.md)
-### [Schedule](/00-Rev-Schedule.md)
+### [Schedule](/00-Schedule.md)
 
 ### Unit 3 - Interpreting the Mystery - Part 01
 
-Revelation & the End of All Things.
-Pages 1 - 8
+FROM: Revelation & the End of All Things.<br />
+Pages 1 - 8<br />
 Questions for chapter 1 are on page 202 if you are interested.
 
+---
 #### Introduction
 
 "The power of a book can be seen in what it does to people..."
 
-This first sentence frames why we need to talk ABOUT the book before we
-begin studying its content.
+This first sentence frames why we need to talk ABOUT the book before we begin studying its content.
 
 What comes to your mind when you think about the book of Revelation?
 - No matter the source: what have you heard about the contents of the book before we started this study?
@@ -23,7 +23,7 @@ What comes to your mind when you think about the book of Revelation?
 - Have you read any books, seen any documentaries, heard any sermons, etc., about Revelation before?
   - What was your reaction to what you read, saw, or heard?
 
-Another important point from page 1,
+Another important point from page 1,<br />
 "A sketch of some of the ways in which Christian have interpreted the book over the centuries can provide a valuable preface to reading Revelation."
 
 Our Beliefs and Interpretations:
@@ -40,10 +40,10 @@ It is good to hear if other have a different point of view, and why.
 - It is a message about timeless truths about how God relates to ALL generations throughout time.
 - It is a message describing events that have already taken place.
 
-Do you hold any of these views right now?
-If so, are you able to explain why you believe that way?
+- Do you hold any of these views right now?
+  - If so, are you able to explain why you believe that way?
 
-
+---
 #### Revelation and the Future
 
 - One bit of Revelation that makes people think it is about the future is the millennial kingdom. Rev 20:4
@@ -124,6 +124,7 @@ If so, are you able to explain why you believe that way?
 	- Many begin to think of Revelation in a timeless fashion.
 	  - "a vision of the spiritual battle that Christians in all times and places were to wage against sin."
 
+---
 #### Revelation as Timeless Truth.
 
 - Dionysius (died ca 264)
@@ -161,7 +162,7 @@ If so, are you able to explain why you believe that way?
   - Theologian from N. Africa.
   - His work has a huge impact on Western thought both secular and Christian.
   - **Opposed** the Donatists,
-    - he did incorporate some of Tyconius's ideas.
+    - BUT, he did incorporate some of Tyconius's ideas.
   - From Tyconius's ideas allow one to read Revelation and apply it to the Christian interior life no matter the time or place.
   - We enter the millennial kingdom at our baptism: the first ressurection.
     - we participate in that with Christ through water baptism.
@@ -172,9 +173,8 @@ If so, are you able to explain why you believe that way?
     - Therefore, the primary movement (as reflected in Scripture)
 	  - is our soul's journey from the earthly "city" to the heavenly "city."
 
-With Augustine's use of Tyconius's interpretation,
-and Jerome's edited version of Victorinus's commentary,
-
+With Augustine's use of Tyconius's interpretation,<br />
+and Jerome's edited version of Victorinus's commentary,<br />
 the **timeless and spiritual** reading of Revelation becomes the dominant viewpoint for many centuries.
 
 
