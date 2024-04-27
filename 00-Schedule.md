@@ -8,7 +8,7 @@ https://Spiritual-Entanglement.github.io/rumc-snsg
   - Unit 2: [Introduction to Revelation](/Revelation/02-Rev-Introduction.md)
 
 - 28 April 2024
-  - Unit 3: [Interpreting the Mystery - Part 01](/Revelation/02-InterpretingTheMystery-Part01.md)
+  - Unit 3: [Interpreting the Mystery - Part 01](/Revelation/03-InterpretingTheMystery-Part01.md)
     - Revelation & the End of All Things - Pages 1 - 8
 
 
