@@ -1,8 +1,8 @@
 # Riviera United Methodist Church
 ## Sunday Night Small Group
-## Bible Studies
 https://Spiritual-Entanglement.github.io/rumc-snsg
+## Bible Studies
 
-[SCHEDULE](https://Spiritual-Entanglement.github.io/rumc-snsg/00-schedule.md)
+[SCHEDULE](https://Spiritual-Entanglement.github.io/rumc-snsg/00-Schedule.md)
 
 ### [Revelation](/Revelation/README.md)
