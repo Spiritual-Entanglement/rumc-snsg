@@ -19,3 +19,5 @@
 - Unit 02: [Introduction to Revelation](/Revelation/02-Rev-Introduction.md)
 - Unit 03: [Interpreting the Mystery - Part 01](/Revelation/03-InterpretingTheMystery-Part01.md)
   - Revelation & the End of All Things - Pages 1 - 8
+- Unit 04: [Interpreting the Mystery - Part 02](/Revelation/04-InterpretingTheMystery-Part02.md)
+  - Revelation & the End of All Things - Pages 8 - 13
