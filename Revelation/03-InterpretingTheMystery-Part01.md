@@ -1,12 +1,11 @@
 # Riviera UMC
-## [Sunday Night Small Group](/README.md)
-## [Study of the Book of Revelation](/Revelation/README.md)
-### [Schedule](/00-Schedule.md)
+**[Sunday Night Small Group](/README.md)**
+**[Study of the Book of Revelation](/Revelation/README.md)**
+**[Schedule](/00-Schedule.md)**
 
 ### Unit 3 - Interpreting the Mystery - Part 01
-
-FROM: Revelation & the End of All Things.<br />
-Pages 1 - 8<br />
+FROM: Revelation & the End of All Things.
+Pages 1 - 8
 Questions for chapter 1 are on page 202 if you are interested.
 
 ---
