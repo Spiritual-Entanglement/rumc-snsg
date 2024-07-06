@@ -33,7 +33,7 @@ pg 56
   - When we see other churches in trouble, and needing correction, we must remember that they are still participants in God's Kingdom and Jesus is in their midst too. There may be things there we disagree with, but Jesus's grace and mercy still apply to them.
 ---
 ## Not All Readers are Alike - Rev 2:1-3:22
-pg 60
+pg 60.    See Unit 7 
 
 *From the NIVAC*
 Letter template
@@ -46,9 +46,22 @@ Letter template
 - Eschatological promise.
   - Eschatological - things that concern the "end times" and the coming of God's Kingdom.
 
+## Problem of Assimilation
+- Three churches are dealing with internal problems over faith and practice.
+  - All three are in cities with heavy pagan activity that in part of social and professional life.
+  - Leadership problems around those who are instructing or influencing the congregations.
+    - Ephesus is very tough and harsh on teachers
+	- Pergamum is allowing teaching that is weakening their faith.
+	- Thyatira has a false prophet leading people away from faith.
+- Jesus is urging the churches to maintain a distinctive identity.
+
 ### Ephesus - Rev 2:1-7
 Rev 2:4 "I do, however, have one thing against you: you have abandoned the love you showed at the beginning."
 -NT Wright's translation
+
+Reproof: they have lost the love of the Gospel.
+Warning: their lamp stand will be removed if they do not repent
+Promise: they will eat from the Tree of Life in God's paradise.
 
 - They have been great witnesses for Christ.
   -By the early 100's, Christian writers are highlighting the faithful witness of the Ephesian Christians..
@@ -65,41 +78,165 @@ Rev 2:4 "I do, however, have one thing against you: you have abandoned the love 
   -  it treats others with fairness, kindness, and hospitality,
 
 *From the NIVAC*
-- First geographically
-- First in other ways
-  - More powerful politically than Pergamum.
-  - The Imperial cult favors it more than Smyrna.
-  - Large Jewish population
-- See the handouts from Sue.
-- Presents of false teachers everywhere
-  - False apostles as well
-  - Christians in Ephesus have grown in skill at discerning false teaching and heresy since Paul's day.
-
-**LOST LOVE**
-- They've lost the ideal of Christian love
-- They're treatment of others outside the congregation and maybe within too.
-- "For the church in Ephesus, "overcoming" or  "conquering" (2: 7) requires more than the vigilance of theological watchmen, it requires the internal unity of love."
-
-**THREAT:**
-- If they don't correct themselves their lamp stand will be removed indicating the end of that church.
-  - The lamp stands might symbolize the interior of the Temple where the high priest would need candles to see.
-    - The Temple in Jerusalem has a large lampstand in it.
-	- The Jewish menorah has seven branches.  Here we have seven individual lamp stands.
-	- The disappearance of a lamp stand would symbolize the church losing is Christian identity.
-
-**PROMISE:**
-- Their promise is to eat from the tree of life which usually indicates eternal life w/ God.
-  - The symbol of the tree of life has other uses in Judaism as well as paganism.
-    - Many pagan temples had gardens with trees and some trees were considered sacred.
-	  - there was a tree of life in the temple of Artemis that where criminals could seek asylum from the authorities.
-  - From the rest of the book of Revelation it is clear the Tree of Life is the one mentioned in Genesis in the Garden of Eden.
-    - the use of it here symbolizes eternity with God.
 
 **Summation:**
 "A church where love ceases can no longer function properly as a local expression of Christ's many-membered body. This is one of the offenses for which a lamp stand can be moved from its place 2:7), through which a church can ultimately cease to exist as a church. Some churches die from lack of outreach, lack of planning for the rising generation, or lack of courtesy to visitors; some churches, like the churches in Ephesus, may risk simply killing themselves off by how they treat others."
 
+### Pergamum - Rev 2:12-17
+- A church who has stood up to a lot of persecution.
+  - one man, Antipas, was put to death in some way because of his witness to Jesus as the Messiah, and refusal to denounce Christ.
 
-## List of Grievances 
+Reproof: Some of the congregation is following a local teacher nicknamed Balaam who is leading people away from their faith.
+Warning: Jesus will come defend the faith with the Sword of His mouth.
+Promise: the secret manna, and a while stone with their new name on it.
+
+- Some in the congregation are being lead astray by assimilating too much of the culture, 
+  - Balaam is a reference to Balaam the prophet who helped lead Israel astray by tempting them with the pagan religious beliefs of the Moabites.  Balak used Balaam to lure Israel away from pure worship of Yahweh, and weakened the nation.
+  - it is seeping into their worship and their daily social and professional lives.
+  - Some are adopting the local pagan idols
+    - committing spiritual fornication.
+
+- Just how much can a Christian mix with the world around them before they begin to betray their beliefs?
+  - Jesus' Word, the sword, will cut through half-hearted spirituality.
+  - In ALL of Israel's past it is mixing with paganism that has lead them astray time and time again.
+    - We Christians, and descendants of the Jewish faith, are in just as much danger from too much mixing with ideas and practices that chip away at our core beliefs.
+
+The promised elements:
+- There is no good explanation for what these mean.
+  - there are tons of speculation out there.
+- The secret manna:
+  - suggests fulfillment of some kind.
+- The stone with a name known only to you:
+  - suggests a close, private relationship between you and God that no one else can understand or comprehend.
+  - A relationship that saw you through the worst of times.
+
+### Thyatira - Rev 2:18-29
+- A serving church
+  - they seem to be doing a lot of good works.
+    - love, faith, service, and patience. - They seem to be growing in faith.
+- a lot of trade unions and guilds.
+  - a large amount of metal work.
+- Emperor worship.  Emperor is also know as the 'son of god.'
+
+Reproof: allowing a self-proclaimed prophet to lead members of the congregation into pagan worship and idolatry.
+Warning: following this prophet will lead to mental, emotional, and maybe even physical sickness and death.
+Promise: authority and the morning star. 
+
+- love, faith, service, and patience.
+  - They seem to be growing in faith.
+- But there is a major problem:
+  - Jezebel - refers to King Ahab's wife who seems to have influenced a lot of his wickedness.
+  - The Jezebel in Thyatira is doing the same by leading Christians to mix worship of pagan gods into their spiritual lives.
+    - It is not clear if she is an official church teacher, but the church is not doing anything about her influence.
+	- as a "prophet" she is claiming special communication between her and god, and she is proclaiming this message boldly.
+
+- Jesus's flaming eyes suggest His ability to search minds and hearts and see right into the core of our being.
+
+- The ruling authority is a reference to Psalm 2 where Jesus is shown to have complete and utter authority over everthing.
+- The morning star will later be a reference in Revelation to Jesus Himself.
+- Possible this alludes to our sharing in Christ's identity in His kingdom.
+
+## Problem of Persecution
+- Two churches are under serious persecution - Smyrna and Philadelphia.
+  - in the 1st century, persecutions were instigated by the local community
+    - not by the empire....not yet.
+- The traditional Jewish communities seem to be causing much of the problem.
+  - this is not true in other communities where Jewish/Christian relations are less problematic.
+
+### Smyrna - Rev 2:8-11
+- A very rich city, but the Christians, those who abstain from participation in the pagan festivals and professional guilds, are poor and getting poorer.
+- They are also being relentlessly harassed by the local Jewish synagogue.
+  - The traditional Jews who have not embraced Jesus as Messiah are causing as much trouble for the Christians as they can including legal problem.
+
+Reproof: none
+Warning: things are probably going to get worse for them before they get better.
+Promise: the crown of life.
+
+Jesus, who is the First and the Last, the one who was dead and came to life, wants them to know that physical death is not the end, and that He will meet them on the other side, and their faith and steadfastness will be rewarded with eternal life in His kingdom.
+
+### Philadelphia - Rev 3:7-13
+- Probably a very small and poor congregation.
+  - they are very faithful and steadfast.
+
+Reproof: none
+Warning: persecution will continue, and may be worse.
+Promise: they will be pillars of the temple in the new Jerusalem.
+
+They seem to be blocked from participation in social and professional circles because of their faith, and they are threatened legally too.
+
+Jesus is holding open a door for them into the Kingdom where they will be completely included, loved, and fulfilled.  No one and nothing can shut that door.  Their patience in this life, to stick fast to their faith, is all that is required to keep growing, serving, and sharing His Gospel.
+
+## Problem of Complacency
+Where is the problem?!
+- no mention of conflict with the local synagogue.
+- no mention of legal or political imprisonment of threat of death.
+- no false teachers, apostles, or prophets.
+- they are not threatened by society's judgement.
+- they appear to be thriving.
+Jesus still loves these churches
+- He loves them enough to let them know they are in the wrong.
+- He is also their Lord and they will reap the consequences of their actions.
+- there is forgiveness, mercy and grace for those who repent.
+
+### Sardis - Rev 3:1-6
+- has the "name of being alive"
+  - they are thought to be prosperous by the community at large.
+- Jesus calls them a dead church. 3:1.
+
+Reproof: dead church.
+Warning: their lives could be demanded of them at any time. They are not watching.
+Promise: their names remain in the book of Life.  Jesus will acknowledge them as His faithful servants in God's presence.
+
+Initially they received the Gospel with great joy, and set to following Christ.
+- They must have met with little resistance by the community, and gradually their joy melded back into business as usual.
+  - their new faith was not required to seem them through any hardships.
+  - So much of their faith has died.
+    - There isn't much left to distinguish them from the rest of society.
+    - Wake Up
+      - there are repeated calls for this church to wake up.
+        - they lack self-awareness of their shallow faith.
+      - they compromise their relationship with God and Christ in their behavior.
+        - they pay lip service to being followers of Christ, but make no difference in their lives or the lives of those around them.
+- There seem to be a handful of truly faithful practicing Christians left in the congregation.
+  - they will be rewarded for maintaining their faith while being members of this dead congregation.
+
+Simply being a member of a church does not make you a Christian.
+Simply being in church on Sunday does not make you a Christian.
+
+### Laodicea - Rev 3:14-22
+- another rich church
+  - they want for nothing.
+  - they don't seem to have a need for God.
+  - "Material wealth has contributed to spiritual poverty"
+- Their spiritual lives have become lazy and lackluster 
+  - this is the deadly sin of sloth - spiritual laziness.
+
+Reproof: Lukewarm Christianity. Spiritual sloth. They are unable to see their need for God.
+Warning: They will not be admitted to Jesus kingdom.
+Promise: They will sit with Christ on His throne.
+
+- Banquet images.
+  - the food is horrible.
+  - the company is intolerable.
+  - they are all blind to how bad everything is.
+  - Jesus is not even allowed in, but is standing outside knocking on the door.
+    - He is being ignored.
+
+Water:
+- Lycus river is not big nor strong.  It dries up a lot.
+- hot water that is cooled down.
+  - Water from the north, near Hierapolis, comes from hot springs.
+    - lots of hard minerals in the water.
+    - by the time it gets to Laodicea it is lukewarm
+      - because of the minerals it is nearly impossible to drink without getting sick.
+- cold water that is headed up.
+  - Water from the north, near Colosse, comes from snow-capped Mount Cadmus.
+    - super cold alpine water.
+    - its lukewarm by the time it gets to Laodicea.
+
+
+
+## Lost Love
 1. Lost Love - Ephesus lost the primary Christian love we are called to express to the World.  This is the love God has shown to us, and we naturally want to reflect back to the world.  You see this in people who have newly become Christians, or people who are starting a new church or ministry.  The church in Ephesus has been around for quite a while now, and the "new church smell" seems to have worn off.
    - 1 Cor 13:13 (NRSV)
 	 "And now faith, hope, and love abide, these three; and the greatest of these is love."
@@ -118,3 +255,10 @@ Rev 2:4 "I do, however, have one thing against you: you have abandoned the love 
 	   - maybe they are losing love and connection with God.  They seem to be in danger of this.
 
 
+## Context
+- the seven letters establish a context for the visions that will come in the next chapters.
+- how can the visions of the heavenly throne room, the four horsement, and other.
+  - help awaken the complacent?
+  - strengthen the persecuted?
+  - bring those to compromise back to a renewed sense of faithfulness.
+- The promises to each church point to the final chapters when the faithful find eternal life in the New Jerusalem.
