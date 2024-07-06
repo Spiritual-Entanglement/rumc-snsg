@@ -1,3 +1,4 @@
+# Riviera UMC
 ## [Sunday Night Small Group](/README.md)
 **[Study of the Book of Revelation](/Revelation/README.md)**
 **[Schedule](/00-Schedule.md)**
