@@ -21,3 +21,11 @@
   - Revelation & the End of All Things - Pages 1 - 8
 - Unit 04: [Interpreting the Mystery - Part 02](/Revelation/04-InterpretingTheMystery-Part02.md)
   - Revelation & the End of All Things - Pages 8 - 13
+- Unit 5: [Interpreting the Mystery - Part 03](/Revelation/05-InterpretingTheMystery-Part03.md)
+  - Revelation & the End of All Things - Pages 27 - 44
+- Unit 6: [Christ and the Churches](/Revelation/06-ChristAndTheChurches.md)
+  - Revelation & the End of All Things - Chapter 2: Pages 45 - 56
+- Unit 7: [The Vision to the Churches](/Revelation/07-TheVisionToTheChurches.md)
+  - Revelation & the End of All Things - Chapter 2: Pages 56 - 61
+- Unit 8: [The Letters to the Churches](/Revelation/08-TheChurches.md)
+  - Revelation & the End of All Things - Chapter 2: Pages 61 - 74

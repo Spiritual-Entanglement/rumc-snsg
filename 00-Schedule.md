@@ -47,7 +47,7 @@ https://Spiritual-Entanglement.github.io/rumc-snsg
   - Rained out.
 
 - 7 July 2024
-  - Unit 7: [The Letters to the Churches](/Revelation/08-TheChurches.md)
+  - Unit 8: [The Letters to the Churches](/Revelation/08-TheChurches.md)
     - Revelation & the End of All Things - Chapter 2: Pages 61 - 74
 
 
