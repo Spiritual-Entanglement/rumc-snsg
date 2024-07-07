@@ -1,8 +1,7 @@
 # Riviera UMC
 ## [Sunday Night Small Group](/README.md)
 **[Study of the Book of Revelation](/Revelation/README.md)**
-**[Schedule](/00-Schedule.md)**
-30 June, 2024
+7 July, 2024
 
 ### Unit 8 - Christ And The Churches - Part 03
 FROM: Revelation & the End of All Things by Craig R. Koester
@@ -95,7 +94,6 @@ Promise: the secret manna, and a while stone with their new name on it.
   - it is seeping into their worship and their daily social and professional lives.
   - Some are adopting the local pagan idols
     - committing spiritual fornication.
-
 - Just how much can a Christian mix with the world around them before they begin to betray their beliefs?
   - Jesus' Word, the sword, will cut through half-hearted spirituality.
   - In ALL of Israel's past it is mixing with paganism that has lead them astray time and time again.
@@ -129,10 +127,8 @@ Promise: authority and the morning star.
   - The Jezebel in Thyatira is doing the same by leading Christians to mix worship of pagan gods into their spiritual lives.
     - It is not clear if she is an official church teacher, but the church is not doing anything about her influence.
 	- as a "prophet" she is claiming special communication between her and god, and she is proclaiming this message boldly.
-
 - Jesus's flaming eyes suggest His ability to search minds and hearts and see right into the core of our being.
-
-- The ruling authority is a reference to Psalm 2 where Jesus is shown to have complete and utter authority over everthing.
+- The ruling authority is a reference to Psalm 2 where Jesus is shown to have complete and utter authority over everything.
 - The morning star will later be a reference in Revelation to Jesus Himself.
 - Possible this alludes to our sharing in Christ's identity in His kingdom.
 
@@ -167,16 +163,16 @@ They seem to be blocked from participation in social and professional circles be
 Jesus is holding open a door for them into the Kingdom where they will be completely included, loved, and fulfilled.  No one and nothing can shut that door.  Their patience in this life, to stick fast to their faith, is all that is required to keep growing, serving, and sharing His Gospel.
 
 ## Problem of Complacency
-Where is the problem?!
-- no mention of conflict with the local synagogue.
-- no mention of legal or political imprisonment of threat of death.
-- no false teachers, apostles, or prophets.
-- they are not threatened by society's judgement.
-- they appear to be thriving.
-Jesus still loves these churches
-- He loves them enough to let them know they are in the wrong.
-- He is also their Lord and they will reap the consequences of their actions.
-- there is forgiveness, mercy and grace for those who repent.
+- Where is the problem?!
+  - no mention of conflict with the local synagogue.
+  - no mention of legal or political imprisonment of threat of death.
+  - no false teachers, apostles, or prophets.
+  - they are not threatened by society's judgement.
+  - they appear to be thriving.
+- Jesus still loves these churches
+  - He loves them enough to let them know they are in the wrong.
+  - He is also their Lord and they will reap the consequences of their actions.
+  - there is forgiveness, mercy and grace for those who repent.
 
 ### Sardis - Rev 3:1-6
 - has the "name of being alive"

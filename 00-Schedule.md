@@ -13,24 +13,41 @@ https://Spiritual-Entanglement.github.io/rumc-snsg
 
 - 05 May 2024
   - Unit 4: [Interpreting the Mystery - Part 02](/Revelation/04-InterpretingTheMystery-Part02.md)
-    - Revelation & the End of All Things - Pages 8 - 13
-
-- 05 May 2024
-  - Unit 4: [Interpreting the Mystery - Part 03](/Revelation/05-InterpretingTheMystery-Part03.md)
-    - Revelation & the End of All Things - Pages 8 - 13
-
-- 12 May 2024
-  - Mother's Day - No Bible Study
-
-- 19 May 2024
-  - Unit 5: [Interpreting the Mystery - Part 04](/Revelation/06-InterpretingTheMystery-Part04.md)
-    - Revelation & the End of All Things - Pages 14 - 27
+    - Revelation & the End of All Things - Pages 8 - 27
 	  - Apocalyptic Fever, Disappointment, and Tragedy
 	  - Rapture, Tribulation, and Armageddon
 
-- 26 May 2024
-  - Unit 6: [Interpreting the Mystery - Part 05](/Revelation/07-InterpretingTheMystery-Part05.md)
+- 05 May 2024
+  - Unit 5: [Interpreting the Mystery - Part 03](/Revelation/05-InterpretingTheMystery-Part03.md)
     - Revelation & the End of All Things - Pages 27 - 44
 	  - Historical and Literary Study of Revelation
 	  - Silence or Song
 	  - Venturing Forward
+
+- 12 May 2024
+  - Mother's Day - No Bible Study this week
+
+- 19 May 2024
+  - Unit 6: [Christ and the Churches](/Revelation/06-ChristAndTheChurches.md)
+    - Revelation & the End of All Things - Chapter 2: Pages 45 - 56
+
+- 26 May 2024
+  - Unit 7: [The Vision to the Churches](/Revelation/07-TheVisionToTheChurches.md)
+    - Revelation & the End of All Things - Chapter 2: Pages 56 - 61
+
+- 2 June 2024
+  - No Bible Study this week
+- 9 June 2024
+  - ??
+- 16 June 2024
+  - Father's Day - no Bible Study this week
+- 23 June 2024
+  - ??
+- 30 June 2024
+  - Rained out.
+
+- 7 July 2024
+  - Unit 7: [The Letters to the Churches](/Revelation/08-TheChurches.md)
+    - Revelation & the End of All Things - Chapter 2: Pages 61 - 74
+
+
