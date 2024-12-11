@@ -3,6 +3,8 @@
 **[Study of the Book of Revelation](/Revelation/README.md)**
 **[Schedule](/00-Rev-Schedule.md)**
 
+### Unit 1, Revelation Study
+
 # Recap of Acts
 
 ## Summary of the Early Church
