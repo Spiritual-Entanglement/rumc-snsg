@@ -6,7 +6,7 @@
 ### Unit 14 - The Beast and the Lamb - Cycle Five - Part 01
 FROM: Revelation & the End of All Things by Craig R. Koester
 Chapter 5, pages 115-142,  Revelation 12-15
-Questions for chapter 4 are on page 205 if you are interested.
+Questions for chapter 5 are on page 205 if you are interested.
 
 ## Chapter 5: The Beast and The Lamb
 
