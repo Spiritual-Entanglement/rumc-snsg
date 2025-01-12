@@ -195,7 +195,7 @@ Pages 129 - 142
     - just like Israel did after crossing the Red Sea, the Church sings a song in praise of God.
       - The song celebrates God as the true King of *all* the nations.
     - page 141b the "imagery transforms the story of Israel's liberation from slavery in the time of Moses, into the story of liberation through the Lamb.
-- page 141f. "God does not want the nations of the world to be lured into allying themselves with the power of evil (13:7-8), but neither does he want th enations to be destroyed.  Instead, God's desire is for change..."
+- page 141f. "God does not want the nations of the world to be lured into allying themselves with the power of evil (13:7-8), but neither does he want the nations to be destroyed.  Instead, God's desire is for change..."
   - In all the previous visions of punishment and destruction, God eased the judgments so that people had time to repent.
     - Through the example of the saints and witnesses suffering, people came to repentance.
     - God's desire is not to punish.

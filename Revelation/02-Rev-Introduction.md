@@ -1,5 +1,5 @@
 # Riviera UMC
-**[Sunday Night Small Group](/README.md)**
+**[Thursday Night Small Group](/README.md)**
 **[Study of the Book of Revelation](/Revelation/README.md)**
 **[Schedule](/00-Rev-Schedule.md)**
 
@@ -10,11 +10,11 @@
 ## Source Material
 
 - **Main Book:**
-  - Revelation & the End of ALl Things by Craig R. Koester
+  - Revelation & the End of All Things by Craig R. Koester
 - **Supplemental Materials:**
   - Revelation for Everyone by N.T. Wright.
   - Revelation: The NIV Application Commentary by Craig S. Keener
-  - Four Views on the Book of Revelation (Counterpoints: Bible and Theolory) - Stanley Gundry and Marvin Pate
+  - Four Views on the Book of Revelation (Counterpoints: Bible and Theology) - Stanley Gundry and Marvin Pate
 
 ## Considerations Before Getting into the Scriptures
 
@@ -24,9 +24,9 @@
    - Apocalyptic
      - Jewish and Christian apocalyptic books not in the Bible.
      - From Greek apocalypsis' meaning 'revelation'
-       - did not mean a large-scale disater or end of the world.
+       - did not mean a large-scale disaster or end of the world.
      - Revelation is the revealing of something that existed but was previously hidden.
-     - Apocalyptic books are not phrophetic in nature.
+     - Apocalyptic books are not prophetic in nature.
      - Characteristics of Jewish/Christian apocalyptic books: 
        - symbolism and visions
        - angelic beings media the revelation
@@ -62,7 +62,7 @@
    - one of the Apostle's disciples
    - John the Baptist
      - not much support for this one, but it does pose interesting possibilities.
-	 - In Acts 19 Paul met Christians in Ephesus who were diciples of John the Baptist and knew nothing of the baptism of the Holy Spirit.
+	 - In Acts 19 Paul met Christians in Ephesus who were disciples of John the Baptist and knew nothing of the baptism of the Holy Spirit.
 
 3. **Date**
    - The two most probable possibilities
@@ -72,7 +72,7 @@
 4. **Traditional Materials**
    - 278 versus out of 404 contain allusions to Old Testament.
    - Frequently refers to Isaiah, Jeremiah, Ezekiel and Daniel.
-   - Not as frequently: Psalms, Exedus, and Deuteronomy.
+   - Not as frequently: Psalms, Exodus, and Deuteronomy.
    - John recasts OT images into Christological reinterpretations.
 
 5. **Leading Interpretations**

@@ -1,5 +1,5 @@
 ﻿# Riviera UMC
-## [Sunday Night Small Group](/README.md)
+## [Thursday Night Small Group](/README.md)
 **[Study of the Book of Revelation](/Revelation/README.md)**
 24 October, 2024
 
@@ -63,11 +63,11 @@ Chapter 3 continued. Overview
      - Rome was the conqueror.
      - but the Roman Empire stopped expansion by Parthian bowmen.
    - The bowman represents security threats from outside society.
-     - The Parhians remind Rome that human governments and empires are vulnerable to being conquered by outside forces.
+     - The Parthians remind Rome that human governments and empires are vulnerable to being conquered by outside forces.
      - Do not compromise your faith to placate human powers and governments.  They will all eventually fail.
 
-2. the second seal
-   - swordsman on a red horse. blood?
+2. The second seal
+   - swordsman on a red horse. Blood?
    - Represents security threats from inside society
    - he is given the sword he rides with.
    - he is allow to take peace away from the people so they turn to violence against one another.
@@ -78,7 +78,7 @@ Chapter 3 continued. Overview
    - don't be lulled into a complacent faith
      - Peace can be taken from us at any time, often from within our own communities.
 
-3. the third seal
+3. The third seal
    - the rider on a black horse
    - holds merchants scales
    - a" voice" from among the creatures announce failure of systems of economy,
@@ -90,7 +90,7 @@ Chapter 3 continued. Overview
         - crops fail, ships sink, farmland is taken over by another empire.
       - human economies do and will fail.
 
-4. the fourth seal
+4. The fourth seal
    - a rider comes forth named Death
    - rides a sickly green horse
    - He is allowed to kill one fourth of the people by violence, disease, and all manner of natural causes.
@@ -122,7 +122,7 @@ Page 89: Where is God in all of this?
     - Back in the beginning of chapter 4, the description of God highlights the mystery that is divinity.
     - there is a difference between divine and human.
 
-5. the fifth seal
+5. The fifth seal
    - the martyrs who have already killed in John's time, are there in Heaven
    - they have a special place of shelter under God's altar
      - their death had purpose in furthering God's will
@@ -140,7 +140,7 @@ Page 89: Where is God in all of this?
      - again, God does not owe us an explanation.
 
 
-6. the sixth seal
+6. The sixth seal
    - in the end even creation will not shelter humanity,
      - Isa 34: 4, Joel 2:30 -31, Amos 8.9
    - blending into the pagan beliefs of society will not shelter you, or provide security
@@ -169,7 +169,7 @@ Ch 7 The 144,000& The Great Multitude
 
 - The cascade of threats gives way to the praises of God continuing.
   - One of the elders describes to John what is taking place
-  - He describes the un-countable group of people as those who have remained faithful and had their sins washed away by the Blood of the Lamb.
+  - He describes the uncountable group of people as those who have remained faithful and had their sins washed away by the Blood of the Lamb.
 - Three prophecies are highlighted
   - Ezek 37: 27
   - Isa 4 9:10

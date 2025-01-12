@@ -1,5 +1,5 @@
 # Riviera United Methodist Church
-## Sunday Night Small Group
+## Thursday Night Small Group
 https://github.com/Spiritual-Entanglement/rumc-snsg
 ## Bible Studies
 

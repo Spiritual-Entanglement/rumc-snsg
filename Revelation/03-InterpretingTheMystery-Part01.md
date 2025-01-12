@@ -1,5 +1,5 @@
 # Riviera UMC
-**[Sunday Night Small Group](/README.md)**
+**[Thursday Night Small Group](/README.md)**
 **[Study of the Book of Revelation](/Revelation/README.md)**
 **[Schedule](/00-Schedule.md)**
 
@@ -74,7 +74,7 @@ It is good to hear if other have a different point of view, and why.
     - the Millennial Kingdom will be on the Earth.
 	- restores creation to a condition of perfection.
 	- affirms the goodness of God's creation.
-	  - Counters the Gnostics heresy.
+	  - Counters the Gnostic's heresy.
 	    - all material creation is evil and irredeemable.
 
 - Montanus (late second century)
@@ -95,13 +95,13 @@ It is good to hear if other have a different point of view, and why.
     - equates Babylon with Rome
 	- the beast includes traits of Nero
 	  - still accepted by scholars today.
-	- the mellinnial kingdom will be
+	- the millennial kingdom will be
 	  - a earthly, world-wide kingdom
 	  - governed by the saints.
-  - **IMPORANT Contribution**
+  - **IMPORTANT Contribution**
     - Events in Revelation will not happen in chronological sequence.
 	  - therefore, NOT a step-by-step script of events.
-	  - John's visions are sometimes repeditive in nature it not in detail.
+	  - John's visions are sometimes repetitive in nature it not in detail.
       - The same messages are repeated but with in different ways.
 	    - Like the OT when Pharoah tells Joseph his two different dreams of bounty and famine.
 		- recognized the 7 trumpets and the seven bowls of plagues represent the same series of threats.
@@ -115,7 +115,7 @@ It is good to hear if other have a different point of view, and why.
   - produced the Latin Vulgate
   - preserved and revised Victorinus's commentary.
     - did not necessarily (or completely) agree with Victorinus.
-  - **IMPORANT Contribution**
+  - **IMPORTANT Contribution**
     - in a postscript to Victorinus' commentary.
 	  - argued that Revelation **MUST** be understood _spiritually_
 	- the millennial kingdom really describes Christian obedience.

@@ -1,5 +1,5 @@
 # Riviera UMC
-**[Sunday Night Small Group](/README.md)**
+**[Thursday Night Small Group](/README.md)**
 **[Study of the Book of Revelation](/Revelation/README.md)**
 **[Schedule](/00-Schedule.md)**
 
@@ -72,9 +72,9 @@ Example
     - Seventh-Day Adventist.
 	- Felt called to gather the 144,000.
 	  - Established the Mt Carmel Center near Waco in 1935.
-	  - intended to relocate to Palistine.
-	  - His widow predicted that on April 22, 1959, God would move them to Palistine.
-	  - When the prediction failed the group factures.
+	  - intended to relocate to Palestine.
+	  - His widow predicted that on April 22, 1959, God would move them to Palestine.
+	  - When the prediction failed the group fractures.
 	    - the Branch Dividians take over Mt Carmel Center.
   - Vernon Howell (died 1993)
     - aka: David Koresh
@@ -162,10 +162,10 @@ Much of modern-day evangelicalism belief begins here.
        - Revelation does NOT QUOTE the Old Testament. Only paraphrases the OT.
          - God WILL fulfill His prophecies, but it does not say exactly HOW.
   2. Neither Daniel nor Revelation refers to the rapture.
-     - The idea that the people on earth that make up "the" Church disappear when the WORD church disappers from the Revelation narrative, is forced.
+     - The idea that the people on earth that make up "the" Church disappear when the WORD church disappears from the Revelation narrative, is forced.
   3. The distinction between Israel and the Christian church is also forced.
      - New Testament writers clearly see Israel's story continuing in the Christian church.
-	 - The Gentiles in the church are "grafted" onto the tree that is Paul uses as a metphor for Istrael.
+	 - The Gentiles in the church are "grafted" onto the tree that Paul uses as a metaphor for Israel.
 	   - Rom 11:13-24
 	   - The wall dividing Jew and Gentile is broken down. Eph 2:11-22
 
@@ -218,7 +218,7 @@ pg 27
 	   - Local level persecution, not blanket Roman policy.
 	   - Visions of horrific persecution beyond what any of the churches have yet experienced.
 	     - it magnifies the thread of persecution to show the empire's true character.
-         - our faith should take the form of resistence.
+         - our faith should take the form of resistance.
 	   - Revelations response to injustice is complex.
 	     - it does not equate justice with retribution.
 	2. Assimilation.

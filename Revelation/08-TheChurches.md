@@ -1,5 +1,5 @@
 # Riviera UMC
-## [Sunday Night Small Group](/README.md)
+## [Thursday Night Small Group](/README.md)
 **[Study of the Book of Revelation](/Revelation/README.md)**
 7 July, 2024
 
@@ -24,7 +24,7 @@ pg 56
 - One point of the whole book is that Jesus won His victory by and through His suffering.
 
 *From NIVAC*
-- John sees Jesus in the midst of the seven lamp stands, indicating that Jesus is always's with His churches.
+- John sees Jesus in the midst of the seven lamp stands, indicating that Jesus is always with His churches.
 - When we read the letters to the churches we will find that:
   - 5 of the 7 are in need of correction,
   - yet Jesus is still with them
@@ -51,7 +51,7 @@ Letter template
   - Leadership problems around those who are instructing or influencing the congregations.
     - Ephesus is very tough and harsh on teachers
 	- Pergamum is allowing teaching that is weakening their faith.
-	- Thyatira has a false prophet leading people away from faith.
+	- Thyatra has a false prophet leading people away from faith.
 - Jesus is urging the churches to maintain a distinctive identity.
 
 ### Ephesus - Rev 2:1-7
@@ -90,7 +90,8 @@ Warning: Jesus will come defend the faith with the Sword of His mouth.
 Promise: the secret manna, and a while stone with their new name on it.
 
 - Some in the congregation are being lead astray by assimilating too much of the culture, 
-  - Balaam is a reference to Balaam the prophet who helped lead Israel astray by tempting them with the pagan religious beliefs of the Moabites.  Balak used Balaam to lure Israel away from pure worship of Yahweh, and weakened the nation.
+  - Balaam is a reference to Balaam the prophet who helped lead Israel astray by tempting them with the pagan religious beliefs of the Moabites.
+    - Balak used Balaam to lure Israel away from pure worship of Yahweh, and weakened the nation.
   - it is seeping into their worship and their daily social and professional lives.
   - Some are adopting the local pagan idols
     - committing spiritual fornication.
@@ -253,7 +254,7 @@ Water:
 
 ## Context
 - the seven letters establish a context for the visions that will come in the next chapters.
-- how can the visions of the heavenly throne room, the four horsement, and other.
+- how can the visions of the heavenly throne room, the four horsemen, and other.
   - help awaken the complacent?
   - strengthen the persecuted?
   - bring those to compromise back to a renewed sense of faithfulness.

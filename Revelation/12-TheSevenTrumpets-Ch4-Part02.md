@@ -1,5 +1,5 @@
 # Riviera UMC
-## [Sunday Night Small Group](/README.md)
+## [Thursday Night Small Group](/README.md)
 **[Study of the Book of Revelation](/Revelation/README.md)**
 14 November, 2024
 
@@ -68,7 +68,7 @@ Questions for chapter 4 are on page 204 if you are interested.
     - Ultimate - even those who oppose God and oppress and persecute His church, have hope in repentance.
   - The scroll is both sweet and bitter.
     - The truth and beauty of life as Jesus' disciple is sweet.
-    - Bitter is the possiblity that we could suffer as we witness to that truth. 
+    - Bitter is the possibility that we could suffer as we witness to that truth. 
       - YET, the suffering of God's people plays a role in bringing the ungodly to repentance.
 #### The seventh trumpet has not yet been blown pg 106
   - The vision continues with a summary of John's message
@@ -130,7 +130,7 @@ Questions for chapter 4 are on page 204 if you are interested.
           - Time is not always literal
             - Allies of the beast get power for '1" hour.
               > Rev 17:12 And the ten horns that you saw are ten kings who have not yet received a kingdom, but they are to receive authority as kings for one hour, together with the beast.
-          - Squence is off
+          - The sequence is off
             - Rev 11:1-2 temple threatened 3.5 years
             - Rev 12:6,14 The "woman" (representing the whole church) flees to the wilderness to escape Satan
               > 6 and the woman fled into the wilderness, where she has a place prepared by God, so that there she can be nourished for one thousand two hundred sixty days.
@@ -141,7 +141,7 @@ Questions for chapter 4 are on page 204 if you are interested.
               - these time periods have to overlap. They cannot be sequential
           - The time period of 3.5 years can mean a limited time of affliction
             - 1 Kings 18:1 Elijah calls a drought that lasts a little over 3 years.
-              > fter many days the word of the Lord came to Elijah, in the third year of the drought,[a] saying, “Go, present yourself to Ahab; I will send rain on the earth.”
+              > After many days the word of the Lord came to Elijah, in the third year of the drought,[a] saying, “Go, present yourself to Ahab; I will send rain on the earth.”
               - Jewish tradition calls it 3.5 years Luke 4:25, James 5:17
                 >  Luke 4:25 - But the truth is, there were many widows in Israel in the time of Elijah, when the heaven was shut up three years and six months, and there was a severe famine over all the land; 
                 > James 5:17 - Elijah was a human being like us, and he prayed fervently that it might not rain, and for three years and six months it did not rain on the earth.
@@ -158,4 +158,4 @@ Questions for chapter 4 are on page 204 if you are interested.
   - The inner sanctuary represents true worshippers
   - The outer court is Christians who compromise their faith, incorporating other religious rites and beliefs
     - This directly addresses the situations the seven churches are facing
-    - John is told to measure out the confines of true worship, and to show that God is watching and concerned, and will ultimately recieve all those washed in the blood of the Lamb to Himself in Heaven.
+    - John is told to measure out the confines of true worship, and to show that God is watching and concerned, and will ultimately receive all those washed in the blood of the Lamb to Himself in Heaven.

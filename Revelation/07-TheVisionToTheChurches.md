@@ -1,5 +1,5 @@
 # Riviera UMC
-## [Sunday Night Small Group](/README.md)
+## [Thursday Night Small Group](/README.md)
 **[Study of the Book of Revelation](/Revelation/README.md)**
 **[Schedule](/00-Schedule.md)**
 23 June, 2024
@@ -18,8 +18,8 @@ pg 56 The Presence of the Living One 1: 9-20
 - Patmos
   1. banished because  of his preaching
      -superstition, magic, and astrology
-     -preaching threatened socail order
-  2. v1:19 affliction t endurance
+     -preaching threatened social order
+  2. verse 1:19 affliction and endurance
      -Patmos NOT a prison
      -Greek village w/ harbor
      -John would live in the town
@@ -50,7 +50,7 @@ being of the One God-THE creator.
   - a person not an event
   - a present reality
   - not detected by the senses
-  - the. churches are not alone
+  - the churches are not alone
 Christ is present w/ them even if they cannot sense Him
 ensuring
   - reassuring to those who want to follow Jesus 
@@ -69,7 +69,7 @@ pg 60 Not all Readers are Alike (2:1-3:22)
 - Each congregation is addressed publicly,
 - Each has their commitments to Christ threatened
   - either by erosion of their faith by lack of diligence
-  - or blatant persecution and oppresio.nl#th.-
+  - or blatant persecution and oppression.
 - Each address follows a pattern
 
 pg 60-Address from Christ.
@@ -82,8 +82,8 @@ pg 60-Address from Christ.
   - each church has a heavenly rep
   - yet the messages address the members directly
 
-the vision
-- Each message uses some part of earlier of Christ.
+### The Vision
+- Each message uses some part of earlier vision of Christ.
   - Consider your situation and your church's situation in relationship to Christ
     - NOT to the world
 	Ex:      The world view  |  In relation to Christ
@@ -95,6 +95,11 @@ the vision
   pg 61 - " It is the conquest of faithful endurance to which the readers are called."
   - Suggests Christians are in a struggle to remain faithful.
   - Conquest in Rev happens in two different ways
-    1) Violence-the horseman& beast: oppression, war, killing
+    1) Violence - the horseman & beast: oppression, war, killing
     2) victory of faith
-	   - Christ the Lamb and His followers conquer "evil" by faithful "suffering" and endurance,
+	   - Christ the Lamb and His followers conquer *"evil"* by faithful *"suffering"* and endurance,
+
+
+
+
+

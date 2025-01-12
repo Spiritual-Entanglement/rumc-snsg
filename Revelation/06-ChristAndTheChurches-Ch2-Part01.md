@@ -1,5 +1,5 @@
 # Riviera UMC
-## [Sunday Night Small Group](/README.md)
+## [Thursday Night Small Group](/README.md)
 **[Study of the Book of Revelation](/Revelation/README.md)**
 **[Schedule](/00-Schedule.md)**
 9 June, 2024
@@ -53,9 +53,9 @@ Revelation - What does it mean to "READ" this revelation?
 	    - sacrifice and atonement.
 		- Passover and liberation.
 		- purity and innocence.
-	  - It illicits sympathy even before critical thought is engaged.
+	  - It elicits sympathy even before critical thought is engaged.
 	- Example 2: the beast
-	  - quickly envokes revulsion and opposition.
+	  - quickly evokes revulsion and opposition.
 	  - reveals the true ugliness and danger associated with it.
 	- These symbols are designed, 'signified,' to strengthen our commitment to Christ and the Gospel.
 
@@ -123,7 +123,7 @@ Letter - An epistle.
 	  - Asia Minor
 		- Christianity was spreading rapidly (NIVAC)
 		  - Some area officials complained to their superiors that the pagan temples were seeing less and less worshipers. (NIVAC)
-	  - These seven churches are stragicly located to reach out to other areas of the Roman Empire. (NIVAC)
+	  - These seven churches are strategically located to reach out to other areas of the Roman Empire. (NIVAC)
 	  - Acts 19:31 ("officials of the province") that Asiarchs, church leadership, met yearly in a cycle of these cities. (NIVAC)
 	  - John probably does not have enough material or secretaries to dictate a book to each church. (NIVAC)
     - To the church as a whole, as we can see ourselves in any one or more of those specific churches.
@@ -132,7 +132,7 @@ Letter - An epistle.
 		  - We can extrapolate some meanings, but it does not mean that was John's intention. (NIVAC)
 	    - The order of the churches addressed followed the order a messenger would come to those cities if he was traveling from the island of Patmos. (NIVAC)
 	  - Some suggest the seven churches represent seven periods or ages of church history. (NIVAC)
-	    - If this is so, only the last age, and expect the immenent return of Christ. (NIVAC)
+	    - If this is so, only the last age, and expect the imminent return of Christ. (NIVAC)
   - Greetings
     - John's knowledge of Greek.
 	  - much speculation about John's knowledge and use of Greek
@@ -152,7 +152,7 @@ Letter - An epistle.
 
 THE VOICE of GOD - pg 56
 "In (Rev) 1:8 the voice of God speaks directly.
-- This only happens twice in Revelation.  v1:8 and 21:5-8
+- This only happens twice in Revelation.  verses 1:8 and 21:5-8
 - God and Christ are the beginning and the end.
   - Revelation starts and ends with God and Christ.
   - They are the focus of the book, of the message.

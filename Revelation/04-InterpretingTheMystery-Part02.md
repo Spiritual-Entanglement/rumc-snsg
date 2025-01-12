@@ -1,5 +1,5 @@
 # Riviera UMC
-**[Sunday Night Small Group](/README.md)**
+**[Thursday Night Small Group](/README.md)**
 **[Study of the Book of Revelation](/Revelation/README.md)**
 **[Schedule](/00-Schedule.md)**
 
@@ -50,7 +50,7 @@ It is good to hear if other have a different point of view, and why.
 	    - 2 Kings 21:26 - 23:30
 	    - 2 Chronicles 33:25 - 35:27
 	    - Purified the Temple
-	    - Brough Israel back into proper workship of God.
+	    - Brought Israel back into proper worship of God.
 	  - Arrives in its fullness with the birth of Christ.
 	  - No end (implied?)
 	- Holy Spirit: 
@@ -86,21 +86,21 @@ It is good to hear if other have a different point of view, and why.
 		 - ends with vision of New Jerusalem.
 		 - the chapters between must cover the years between those events.
 	   - identifies the Beast and harlot with the office of the Papacy.
-	     - The Papacy will eventually be infultrated and taken over by the Antichrist.
+	     - The Papacy will eventually be infiltrated and taken over by the Antichrist.
     3. The FUNCTION of Revelation's imagery
 	   - this viewpoint is often overlooked
-	   - focuses on the central message of Revelation that encourages faith, hope, and perservenance. 
+	   - focuses on the central message of Revelation that encourages faith, hope, and perseverance. 
 	     - goes beyond trying to reduce Revelation into some kind of secret, coded message.
 	   - Addresses the message of warning and promise.
 	     - WARNING
 		   - The church will be plagued by many heresies and problems
-		   - the chruch becomse unrecognizable.
+		   - the church becomes unrecognizable.
 		   - these problems are not unique to any one period in time.
 		     - it characterizes the church on earth through out time.
-		   - DO NOT "be decieved into despair"
+		   - DO NOT "be deceived into despair"
 	     - PROMISE
 		   - Christ is with us at all times.
-		     - if "the word of the gospel remains pure among us, and we love and cherishit, we shall not deoubt that Christ is with us, even when things are at their worst."
+		     - if "the word of the gospel remains pure among us, and we love and cherish it, we shall not doubt that Christ is with us, even when things are at their worst."
 		   - Christ and His church win.
 		     - for "through and beyond all plagues, beasts, and evil angels, Christ is nonetheless with his saints and wins the final victory."
 
@@ -135,7 +135,7 @@ It is good to hear if other have a different point of view, and why.
 - Charles Finney (1792 - 1875)
   - evangelist
   - abolitionist
-  - termperance
+  - temperance
   - Millennial Are 
     - benevolent action
 	- can be hastened by our actions
