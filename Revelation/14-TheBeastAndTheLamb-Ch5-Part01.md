@@ -3,7 +3,7 @@
 **[Study of the Book of Revelation](/Revelation/README.md)**
 5 December, 2024
 
-### Unit 14 - The Beast and the Lamb - Cycle Five - Part 01
+### Unit 14 - The Beast and the Lamb - Cycle Four - Part 01
 FROM: Revelation & the End of All Things by Craig R. Koester
 Chapter 5, pages 115-142,  Revelation 12-15
 Questions for chapter 5 are on page 205 if you are interested.
@@ -16,14 +16,14 @@ Pages 115 - 120
 - Act I. Rev 1- 11.
   - God's faithful play an active role in demonstrating God's love for humanity.
     - The saints are vindicated by many people who repent after the two witnesses are raised from the dead and are raised up to heaven.
-  - Forth cycle ends again in heaven in praise
+  - Third cycle ends again in heaven in praise
   - Rev 11:18. Those who destroys earth are in trouble.
     > 18 The nations were angry, and your wrath came, as did the time for the dead to be judged, and to give your bondservants the prophets, their reward, as well as to the saints and those who fear your name, to the small and the great, ***and to destroy those who destroy the earth.***”
   - The ark appears in heaven
     - lightning, thunder, hail and earthquake
 
 ### Raise the curtain on ACT II.
-- This is the beginning of the fifth cycle.
+- This is the beginning of the fourth cycle.
 - Act II begins
 **"The goal is that life might thrive."** pg 116
   - God is the creator of the earth

@@ -3,7 +3,7 @@
 **[Study of the Book of Revelation](/Revelation/README.md)**
 12 December, 2024
 
-### Unit 15 - The Beast and the Lamb - Cycle Five - Part 02
+### Unit 15 - The Beast and the Lamb - Cycle Four - Part 02
 FROM: Revelation & the End of All Things by Craig R. Koester
 Chapter 5, pages 115-142,  Revelation 12-15
 Questions for chapter 5 are on page 205 if you are interested.
