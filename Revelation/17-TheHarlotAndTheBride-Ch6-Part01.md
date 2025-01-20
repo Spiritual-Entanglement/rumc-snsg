@@ -201,14 +201,3 @@ Part 1: Pages 143 - 151
     - Babylon was just broken up by earthquake, but John will describe a beautiful, wealthy city in Rev 17, and other reasons for it downfall in Rev 18.
     - Further proof the events are not sequential and to be taken symbolically.
 
-
-
-
-
-
-
-
-
-
-
-
