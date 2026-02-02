@@ -34,7 +34,7 @@ God of truth, purify my heart.
   -  Holy Spirit, convert hearts and restrain evil.
 
 ## III. Against Violence — Without Denying Humanity
-- God of the Exodus, break the habits of violence that take root in institutions.
+- God of the Love and Mercy, break the habits of violence that take root in institutions.
   -  Jesus, Hear the cry of the oppressed.
 - Interrupt commands that train ordinary people to harm the vulnerable.
   -  Jesus, Hear the cry of the oppressed.
@@ -54,9 +54,9 @@ God of truth, purify my heart.
   -  Father Almighty, Lead us into Your light.
 - Let what is built on falsehood fail under its own weight.
   -  Father Almighty, Lead us into Your light.
-- Return us to the real: the poor, the suffering, the consequences.
+- Return us to the Gospel: the poor, the suffering, the consequences.
   -  Father Almighty, Lead us into Your light.
-- Preserve me from reciprocal madness.
+- Preserve us from reciprocal madness.
   -  Father Almighty, Lead us into Your light.
 - Keep me from becoming what I oppose.
   -  Father Almighty, Lead us into Your light.
