@@ -176,5 +176,9 @@ all this time as a Christian, and he doesn't really know how to pray.
 John 15:4 "Abide in me as I abide in you. Just as the branch cannot bear fruit by itself unless it abides in the vine, neither can you unless you abide in me"
 
 -------
-I told you this is a true story.  It's my story.
-I still learning -- still in the school of prayer.
+- I told you this is a true story.
+  - It's my story.
+  - I still learning -- still in the school of prayer.
+- There are ways to make the Christian life effective and a powerful part of you daily life.
+  - That's why I am here with you today.
+  - This something that I have been wanting to share with any of you that take your faith seriously.
