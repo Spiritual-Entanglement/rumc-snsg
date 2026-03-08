@@ -1,5 +1,8 @@
 # The Guy Who Didn’t Know How to Pray
 
+John 14-16
+John 15:1-11
+
 ## Let me start with a few questions.
 
 1. Have you ever tried really hard to NOT do something you know you shouldn't, but you did it anyway?
@@ -154,10 +157,11 @@ all this time as a Christian, and he doesn't really know how to pray.
   - is from someone who has already been walking that road for a long time.
 
 - Most of his life this guy tried hard to live a Christian life.
-  - He kept failing because he was trying to do it with is own power.
-  - Once he learned how to stay close to God
+  - He kept failing because he was trying to do it with is own power; his willpower.
+  - Once he learned how to stay close to God; to abide in Christ,
     - He was able to realized the victory Jesus won on the Cross and His Resurrection
     - Faith began to flow from within.
+    - Most of the time, this guy has a sense of peace that is hard to explain.
 
 - God's grace has always been at work in his life.
   - It found this guy while he was lost in this world
@@ -166,8 +170,10 @@ all this time as a Christian, and he doesn't really know how to pray.
 
 ### How about you?
 1. Have you ever tried really hard to NOT do something you know you shouldn't, but you did it anyway? (p)
-2. Have you ever wondered if you really are not a good Christian? (p)
-3. If something tragic happened in your life… would you know how to really lean into your faith? (p)
+2. Have you ever wondered if you are really NOT a good Christian? (p)
+3. If something tragic happened in your life… would you know how to really lean into, or lean on, your faith? (p)
+
+John 15:4 "Abide in me as I abide in you. Just as the branch cannot bear fruit by itself unless it abides in the vine, neither can you unless you abide in me"
 
 -------
 I told you this is a true story.  It's my story.
